@@ -47,12 +47,8 @@ This will churn and pump out models into the "things" directory.  In run_config.
 
 I'll update more here as things develop.
 
-# The Dactyl-ManuForm Keyboard - Python 3 - Cadquery
-This is a fork of [Dactyl-Manuform](https://github.com/tshort/dactyl-keyboard) by Tom Short, which itself is a fork of [Dactyl](https://github.com/adereth/dactyl-keyboard) by Matthew Adereth, a parameterized, split-hand, concave, columnar, ergonomic keyboard.
+### What's Money Got To Do With It?
 
-While the code structure remains comparable to the original, Clojure and OpenSCAD have been replaced by Python and cadquery/OpenCASCADE.  The predecessors were exceptional contributions to the ergo keyboard community by the authors but used a rather esoteric programming language, Clojure, and a relatively inconsistent geometry engine, OpenSCAD.  My hope is that by converting the code the community will have an easier time modifying and evolving this design.  
-
-### Donate directly
 I opened Patreon and Liberapay accounts to accept any donations folks might want to make.  If I can lessen the need for a day job, I'll have the time to get all the bits and pieces I'd really love to see in this repo. A lot of great work has been done, but it's not easy code to work with or to adapt.  That can change.
 
 [Wylderbuilds on Patreon](https://www.patreon.com/user?u=83640492)
