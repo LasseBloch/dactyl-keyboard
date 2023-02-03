@@ -51,8 +51,10 @@ I'll update more here as things develop.
 
 I opened Patreon and Liberapay accounts to accept any donations folks might want to make.  If I can lessen the need for a day job, I'll have the time to get all the bits and pieces I'd really love to see in this repo. A lot of great work has been done, but it's not easy code to work with or to adapt.  That can change.
 
-[Wylderbuilds on Patreon](https://www.patreon.com/user?u=83640492)
+### Donate directly
+I opened Patreon and Liberapay accounts to accept any donations folks might want to make.  If I can lessen the need for a day job, I'll have the time to get all the bits and pieces I'd really love to see in this repo. A lot of great work has been done, but it's not easy code to work with or to adapt.  That can change.
 
+[Wylderbuilds on Patreon](https://www.patreon.com/user?u=83640492)
 [![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Wylderbuilds/donate)
 
 
