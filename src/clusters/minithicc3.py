@@ -24,20 +24,20 @@ class Minithicc3(MinidoxCluster):
     def tl_place(self, shape):
         shape = rotate(shape, [14, -15, 20])
         # shape = self.thumb_place(shape)
-        shape = translate(shape, [-35, -16, -15])
+        shape = translate(shape, [-35, -16, -15 + 7])
         shape = self.thumb_place(shape)
         return shape
 
     def tr_place(self, shape):
         shape = rotate(shape, [17, -15, 10])
         # shape = self.thumb_place(shape)
-        shape = translate(shape, [-15, -10, -9])
+        shape = translate(shape, [-15, -10, -9 + 7])
         shape = self.thumb_place(shape)
         return shape
 
     def ml_place(self, shape):
         shape = rotate(shape, [10, -15, 30])
-        shape = translate(shape, [-54, -26, -21])
+        shape = translate(shape, [-54, -26, -21 + 7])
         shape = self.thumb_place(shape)
         return shape
 
